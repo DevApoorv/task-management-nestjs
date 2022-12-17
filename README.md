@@ -1,3 +1,4 @@
+## NestJS Task Management Application
 <p align="center">
   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="150px" height="150px"/>
 </p>
@@ -10,5 +11,3 @@
  <p>Unit tests have been added using jest.</p>
  <p>Checkout the app on https://taskmanagement.apoorvsinghal.com/</p>
  <p>Checkout the react project on https://github.com/DevApoorv/task-management-frontend</p>
-
-## NestJS Task Management Application
